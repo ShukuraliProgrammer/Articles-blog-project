@@ -1,1 +1,1 @@
-# Hali tayyor bulmagan loyiha
+# It is not ready to work yet.
